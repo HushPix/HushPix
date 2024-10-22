@@ -11,6 +11,8 @@ You can reach me at hushpix03@protonmail.com, although it might take some time f
 
 ## Projects of mine or that I've worked on
 
+<img src="robodemolition.png" alt="Robo Demolition" width="300px" align="right">
+
 ### Robo Demolition
 
 <a href="https://play.google.com/store/apps/details?id=com.tamus.RoboDemolition&pli=1"><img alt="A google play link" src="https://img.shields.io/badge/check_in_store-white?logo=googleplay&logoColor=green&labelColor=gray"></a>
@@ -21,7 +23,11 @@ Robo demolition is a mobile game inspired by titles like "Vampire Survivors" or 
 It offers a variety of enemies, and weapons for the player to experience. 
 I worked on the visuals in this Project.
 
+<br><br><br><br>
 
+## Software that I use and recommend
+
+<a href="https://www.photopea.com/"><img alt="Static Badge" src="https://img.shields.io/badge/Photopea-white?logo=photopea&logoColor=white&labelColor=%23067802&color=gray"></a>
 
 
 
