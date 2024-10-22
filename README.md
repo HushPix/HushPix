@@ -13,6 +13,13 @@ You can reach me at hushpix03@protonmail.com, although it might take some time f
 
 ### Robo Demolition
 
+<a href="https://play.google.com/store/apps/details?id=com.tamus.RoboDemolition&pli=1"><img alt="A google play link" src="https://img.shields.io/badge/check_in_store-white?logo=googleplay&logoColor=green&labelColor=gray"></a>
+<a href="https://github.com/Tomki2258/Robo-Demolition"><img alt="A github link" src="https://img.shields.io/badge/view_repository-white?logo=github&logoColor=white&labelColor=black&color=purple">
+</a>
+<a href="https://www.youtube.com/watch?v=ZIrJTlWi2Fg"><img alt="A youtube link" src="https://img.shields.io/badge/see_trailer-white?logo=youtube&logoColor=white&labelColor=%23590606&color=red">
+</a>
+
+
 
 
 <!--
