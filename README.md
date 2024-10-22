@@ -27,7 +27,10 @@ I worked on the visuals in this Project.
 
 ## Software that I use and recommend
 
-<a href="https://www.photopea.com/"><img alt="Static Badge" src="https://img.shields.io/badge/Photopea-white?logo=photopea&logoColor=white&labelColor=%23067802&color=gray"></a>
+<a href="https://github.com/photopea/photopea"><img alt="Photopea" src="https://img.shields.io/badge/Photopea-white?logo=photopea&logoColor=white&labelColor=%23067802&color=gray"></a>
+<a href="https://github.com/aseprite/aseprite"><img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-white?logo=aseprite&logoColor=white&labelColor=gray&color=white"></a>
+<a href="https://www.blackmagicdesign.com/pl/products/davinciresolve"><img alt="Davinci resolve" src="https://img.shields.io/badge/Davinci_Resolve-white?logo=davinciresolve&logoColor=white&labelColor=%23054d3a&color=%232e045e"></a>
+
 
 
 
